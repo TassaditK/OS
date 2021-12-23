@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/tassaditkettouche/Desktop/tp-SE'
+make: Leaving directory `/Users/tassaditkettouche/Desktop/tp-SE'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
